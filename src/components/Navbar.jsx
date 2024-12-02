@@ -1,7 +1,7 @@
 export function Navbar() {
   return (
     <nav>
-      <img src="/airbnb.svg" />
+      <img src="/logo.svg" />
     </nav>
   );
 }
