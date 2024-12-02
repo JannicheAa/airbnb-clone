@@ -11,10 +11,10 @@ export function Thumbnail(props) {
       {badgeText && <div className="thumbnail-badge">{badgeText}</div>}
       <img
         className="thumbnail-image"
-        src={`./public/images/${props.thumbnail.coverImg}`}
+        src={`./images/${props.thumbnail.coverImg}`}
       />
       <div className="one-line">
-        <img src="./public/star.svg" />
+        <img src="./star.svg" />
         <p>{props.thumbnail.stats.rating}</p>
         <p className="lighter-text"> ({props.thumbnail.stats.reviewCount})</p>
         <p className="lighter-text">• {props.thumbnail.location}</p>
