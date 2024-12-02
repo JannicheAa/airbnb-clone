@@ -1,7 +1,7 @@
 export function Hero() {
   return (
     <div className="top-part">
-      <img className="hero-img" src="./public/hero-images.png" />
+      <img className="hero-img" src="./hero-images.png" />
       <div>
         <h1>Online Experiences</h1>
         <p className="lead">
