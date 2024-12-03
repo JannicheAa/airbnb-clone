@@ -1,4 +1,4 @@
-Check out the website here: travel-journal-jannicheaa.netlify.app/
+Check out the website here: [travel-journal-jannicheaa.netlify.app/](https://online-experiences-jannicheaa.netlify.app)
 
 # React + Vite
 
